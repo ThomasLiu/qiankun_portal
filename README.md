@@ -1,2 +1,15 @@
-# qiankun_portal
-qiankun 微前端框架 的 portal 项目
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
