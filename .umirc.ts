@@ -18,5 +18,5 @@ export default defineConfig({
     type: 'none',
   },
   publicPath: '/qiankun_portal/',
-  // routes: [{ path: '/', component: '@/pages/index' }],
+  routes: [{ path: '/', component: '@/pages/index' }],
 });
