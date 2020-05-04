@@ -32,6 +32,7 @@
     "yorkie": "^2.0.0"
   },
   "devDependencies": {
+    "@umijs/plugin-qiankun": "^2.2.0-0",
     "gh-pages": "^2.2.0"
   }
 }
